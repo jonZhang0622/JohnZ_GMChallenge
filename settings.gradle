@@ -1,0 +1,2 @@
+rootProject.name = "JohnZ_GMChallenge"
+include ':app'
